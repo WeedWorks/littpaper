@@ -57,6 +57,7 @@ Some of the key features that the seed WeedWork community is envisioning are:
     - Invitation Tokens
     - Subscription Tokens
     - Growth participation Tokens
+    - Real State Tokens
 <!-- *I find quite interesting using the Tsunami democratic app mechanism, one memeber can make a first preliminary onboard by scanning a QR being physicaly near but without collecting the location of users, still we would need to improe this mechanism to avoid provacy threats about users location. (if possible)*   -->
 - Private Communications & Notifications.
 - Governance over community spaces and other shared resources.
