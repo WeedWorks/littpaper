@@ -61,7 +61,7 @@ Some of the key features that the seed WeedWork community is envisioning are:
 - Private Communications & Notifications.
 - Governance over community spaces and other shared resources.
 - Governance over and inter-association organization.
-- <!--
+<!--
 - ~~Weed tracking.~~
 - ~~Weed Community economy~~
 -->
