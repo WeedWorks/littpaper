@@ -108,7 +108,9 @@ First thing we shall guarantee is to cover logistics, catering and organization 
 12-13 June to 19th June
 Be aware of the www.noncentralconf.com starting on the 19th.
 
+
 ## WeedWorksDAO
+
 <!--
 > ### Resources availables to date
 > * The Club
