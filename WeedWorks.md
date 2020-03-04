@@ -132,9 +132,13 @@ Since we want to fund a meaningful and long-term OpenSource Product Development 
 
 While for the mid & long term sustainability we'll be deploying novel criptoeconomic mechanism design tools and stacks brought by amazing projects such as [cadCAD](https://github.com/BlockScience/cadCAD) and [CommonsStack](www.commonsstack.org).
 
-### WeedWorksDAO: All-in with Moloch.
+### WeedWorksDAO: All-in with Moloch... for the momment
 Among the different DAO tools and design paradigms in the space, due to its simplicity and flexibility, we have chosen **MolochDAO** as the proper paradigm for our organization as we find this tool as the best to guarantee coordination for gathering and managing funds to fund a common cause while granting the right to disconsent and ragequit in case of miss-alignment among shareholders
 Specifically, MolochDAO v.2 allows multi-token vaulting so we have more and diverse kinds of value backing-up our shares, and guild kicks so we can protect ourselves from non-trustworthy members.
+This will also allow the DAO to lead itselfs towards all plausible paths, from funding public open-source community purposed SW to commonsly owned tokenized Real State as far as we can we can wrap it into an appropiate legal framework.
+
+### The Tribute
+Beyond the initial distribution agreed from the seed community, we are suggesting a tribute of **10 kDAI per 100 shares**, of course we are going to accept lower tributes in exchange for lower shares, but this cases shall come with a proper motivation.
 
 
 #### Initial Configurations: 
