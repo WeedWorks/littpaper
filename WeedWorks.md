@@ -118,7 +118,7 @@ Be aware of the www.noncentralconf.com starting on the 19th.
 e.g:
     * [ID User Stories](https://drive.google.com/file/d/10dqN8WQmCoClCb39bkNwzGUsO4wqxh00/view?usp=sharing)
     * [Insurance User Stories](https://drive.google.com/file/d/10gXg4zD-BLG2LcqDl85sPIZpi9-NuM_N/view?usp=sharing) -->
-
+WeedWorksDAO is a decentrilized funding innitiative originally aimed to deliver the Producthon event while envisioned to build a whole socio-economic ecosystem, having the weed as the first of many community bonding elements.
 
 ### Onboarding Alliances WeedWorkDAO members
 
