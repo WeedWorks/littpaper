@@ -72,10 +72,10 @@ We want our first and Minimal Viable Product to be designed, developed and deplo
 
 We have a wonderful venue in Madrid, and we want to share it with 40 product builders while placing the incentives to engage during a whole full week in Madrid this June.
 
-### The Producthon
+### The Production
 
-A Producthon is like a hackathon, but scoping a Meta-Product, or better said Ecosystem.
-A one week sprint for ~10 teams for work and coordinate together on the plausible integration of components and tools that are already developed or to-be-developed during the Producthon.
+A Production is like a hackathon, but scoping a Meta-Product, or better said Ecosystem.
+A one week sprint for ~10 teams for work and coordinate together on the plausible integration of components and tools that are already developed or to-be-developed during the Production.
 
 We will have essentially three phases for the event:
 
@@ -88,7 +88,7 @@ We will have essentially three phases for the event:
     * This is the final day in which we share demos, findings, learning and take decitions about next steps and define proper and fair rewards from the DAO.
 
 
-#### Producthon Operations:
+#### Production Operations:
 
 To facilitate the continuous collaborative Design while guaranteing valuable common deliverables, 
 we are stewarding to a multi-disciplinary coordination comitee the responsability on scope, stablish, govern and iterate synchronous and asynchronous protocols, for the leading of the Meta-Prototype development process.
@@ -121,7 +121,7 @@ Be aware of the www.noncentralconf.com starting on the 19th.
 e.g:
     * [ID User Stories](https://drive.google.com/file/d/10dqN8WQmCoClCb39bkNwzGUsO4wqxh00/view?usp=sharing)
     * [Insurance User Stories](https://drive.google.com/file/d/10gXg4zD-BLG2LcqDl85sPIZpi9-NuM_N/view?usp=sharing) -->
-WeedWorksDAO is a decentrilized funding innitiative originally aimed to deliver the Producthon event while envisioned to build a whole socio-economic ecosystem, having the weed as the first of many community bonding elements.
+WeedWorksDAO is a decentrilized funding innitiative originally aimed to deliver the Production event while envisioned to build a whole socio-economic ecosystem, having the weed as the first of many community bonding elements.
 
 ### Onboarding Alliances WeedWorkDAO members
 
