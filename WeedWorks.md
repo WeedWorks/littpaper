@@ -148,9 +148,9 @@ Beyond the initial distribution agreed from the seed community, we are suggestin
 This are the innitial configurations of the DAO, if you want to learn more about them, [here](https://forum.metacartel.org/t/moloch-contract-deployment-walk-through/98) a nice post.
 - Name: WeedWorksDAO
 - Description: Where creativity and productivity roll into one.
-- Contract Deployer: xxxxx
+- Contract Deployer: [0x1f2b13e5bfc02f5b931c6b214c761fa6dce6e2c1](https://etherscan.io/address/0x1f2b13e5bfc02f5b931c6b214c761fa6dce6e2c1)
 - Currency:
-    - Token: DAI
+    - Token: REP/WBTC/DAI/USDT
     - Recommended Minimun Tribute: 10
 - Proposal Timing:
     - Voting Period Lenght: 7 days
